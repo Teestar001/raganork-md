@@ -49,14 +49,14 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "Your worst",
             "required": true,
             "value":"Raganork"
         },
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
             "required": true,
-            "value":"Raganork,SKL11,91123456789,https://i.imgur.com/B2YWSLk.jpg"
+            "value":"Anonymous,SKL11,2348149791283,https://pin.it/2xnHgVk"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
